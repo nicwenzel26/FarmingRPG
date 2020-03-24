@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0dff2d90-0b9e-49e2-9d8b-1e73a33dc5f3",
+            "Value": {
+                "id": "a3b7ca53-4ff6-4337-a00e-db37a4e144e5",
+                "resourcePath": "sprites\\spr_player_down\\spr_player_down.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6fba0010-2208-4eee-9c85-5bb28a58c378",
             "Value": {
                 "id": "60fc1733-00b3-47ed-945c-511c52ac0c53",
@@ -47,6 +55,14 @@
             }
         },
         {
+            "Key": "917bc6aa-6f6c-4c03-8017-036df1f8502e",
+            "Value": {
+                "id": "5e26772b-5c0d-4926-a583-7a7d765821d8",
+                "resourcePath": "sprites\\spr_player_up\\spr_player_up.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9f0f3787-b5f1-44f9-bbaa-acce4c56088e",
             "Value": {
                 "id": "adfba1ed-c9ef-4ee6-b333-277cf6b20282",
@@ -60,6 +76,14 @@
                 "id": "9dd6dd27-fab5-43b9-a94f-0b3744bbd5ac",
                 "resourcePath": "views\\9f67cde0-c105-42f1-8208-bd58b41cec58.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a07b746b-eb7e-433d-9043-34165bb71fe7",
+            "Value": {
+                "id": "bf2cf60d-83f5-4ec8-94b4-29b11341287d",
+                "resourcePath": "sprites\\spr_player_left\\spr_player_left.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -82,7 +106,7 @@
             "Key": "b7b720fb-dda7-4821-85c4-30ee49c7d42c",
             "Value": {
                 "id": "0a4aa58a-3c44-4b3c-b0a4-841d67be1136",
-                "resourcePath": "sprites\\spr_player\\spr_player.yy",
+                "resourcePath": "sprites\\spr_player_right\\spr_player_right.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -92,6 +116,14 @@
                 "id": "eaf1479c-ab9e-4247-b1ab-26adf724e84b",
                 "resourcePath": "objects\\obj_collide\\obj_collide.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bd7889a9-6355-4fe2-afac-d34e1e4bc0a5",
+            "Value": {
+                "id": "e95f1b82-df7e-4a28-8d01-3fa7731b4965",
+                "resourcePath": "views\\bd7889a9-6355-4fe2-afac-d34e1e4bc0a5.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

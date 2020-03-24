@@ -22,13 +22,30 @@ else {
 }
 
 //MOVE WITH WASD *****************************************************
-//Else if allows only for 4 directional movement
+//This code allows movement to be canced when both keys are pressed
 move_y = (input_down - input_up) * spd
 if(move_y == 0) { move_x = (input_right - input_left) * spd }
 
-//COLLISION ***********************************************************
 
-//If COLLISION MOVEMENT ZERO
+//SPRITE MANAGMENT ****************************************************
+if(input_down) {
+	sprite_index = spr_player_down
+}
+else if(input_left) {
+	sprite_index = spr_player_left
+}
+
+else if(input_right) {
+	sprite_index = spr_player_right
+}
+else if(input_up) {
+	sprite_index = spr_player_up
+}
+
+if(move_x == 0 and move_y == 0) {
+	image_index = 0
+}
+
 
 //APPLY MOVEMENT *******************************************************
 x += move_x
