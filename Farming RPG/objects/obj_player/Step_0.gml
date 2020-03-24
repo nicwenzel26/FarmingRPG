@@ -23,18 +23,8 @@ else {
 
 //MOVE WITH WASD *****************************************************
 //Else if allows only for 4 directional movement
-if(input_up) {
-	move_y -= spd;
-}
-else if(input_left) {
-	move_x -= spd;
-}
-else if(input_right) {
-	move_x += spd;
-}
-else if(input_down) {
-	move_y += spd;
-}
+move_y = (input_down - input_up) * spd
+if(move_y == 0) { move_x = (input_right - input_left) * spd }
 
 //COLLISION ***********************************************************
 
