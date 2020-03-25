@@ -1,6 +1,6 @@
-//LOCAL VARS **************************************
-walking_speed = 1
-normal_speed = 2
-running_speed = 3
+event_inherited()
 
-spd = normal_speed
+left_sprite = spr_athena_left
+right_sprite = spr_athena_right
+up_sprite = spr_athena_up
+down_sprite = spr_athena_down

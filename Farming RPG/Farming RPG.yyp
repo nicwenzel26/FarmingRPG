@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "c9fbd79e-a18e-4633-9b16-816f96fe01a2",
+            "Value": {
+                "id": "d59903ad-d74f-4627-b746-8ffdb89549c6",
+                "resourcePath": "views\\c9fbd79e-a18e-4633-9b16-816f96fe01a2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "9ce4f179-5328-4ddb-a92f-460ecafac689",
@@ -298,7 +306,7 @@
             "Key": "d985337a-abc7-4a2b-933f-f849bce8a6c5",
             "Value": {
                 "id": "bc218181-e526-402e-8d0a-ddc97c15e21b",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\Farm\\Farm.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -335,6 +343,14 @@
             }
         },
         {
+            "Key": "e8e4bb12-894c-43fa-a36e-e23c17b56075",
+            "Value": {
+                "id": "eca64175-fd87-4746-8cea-ec7c43b64140",
+                "resourcePath": "objects\\game\\game.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e9bc93cb-0efb-4e00-b320-6b591b944822",
             "Value": {
                 "id": "4546df37-1384-4442-9528-7ce41c50132b",
@@ -359,6 +375,14 @@
             }
         },
         {
+            "Key": "ee7c235b-3e29-43ee-bfde-738da2a925a5",
+            "Value": {
+                "id": "66f7f12e-0831-444c-ab1c-0a98393b2f10",
+                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "f164ed04-b064-42c4-a776-f28286deea32",
             "Value": {
                 "id": "fd97266b-a277-4ea6-8ea7-e4eb3a308d9f",
@@ -372,6 +396,14 @@
                 "id": "5c34588d-b7a8-484a-aacc-5277f4e68b91",
                 "resourcePath": "sprites\\spr_athena_down\\spr_athena_down.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f66f090f-938d-42fa-840c-462e0722cb1a",
+            "Value": {
+                "id": "0450c30b-3669-47c8-8260-fc840250be56",
+                "resourcePath": "objects\\obj_parent_NPC\\obj_parent_NPC.yy",
+                "resourceType": "GMObject"
             }
         },
         {
