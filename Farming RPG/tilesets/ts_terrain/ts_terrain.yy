@@ -4,7 +4,81 @@
     "mvc": "1.11",
     "name": "ts_terrain",
     "auto_tile_sets": [
-        
+        {
+            "id": "005dce98-6987-480d-974d-fcb062f675a5",
+            "modelName": "GMAutoTileSet",
+            "mvc": "1.0",
+            "closed_edge": false,
+            "name": "at_grass",
+            "tiles": [
+                118,
+                55,
+                54,
+                86,
+                23,
+                117,
+                21,
+                85,
+                22,
+                53,
+                119,
+                87,
+                150,
+                149,
+                151,
+                0
+            ]
+        },
+        {
+            "id": "7489c92c-1c38-429c-9f92-8f424dee05c8",
+            "modelName": "GMAutoTileSet",
+            "mvc": "1.0",
+            "closed_edge": false,
+            "name": "at_dirt",
+            "tiles": [
+                115,
+                52,
+                51,
+                83,
+                20,
+                114,
+                18,
+                82,
+                19,
+                50,
+                116,
+                84,
+                147,
+                146,
+                148,
+                0
+            ]
+        },
+        {
+            "id": "4676c6d4-cdcd-4720-b2d5-b0da1692a7a9",
+            "modelName": "GMAutoTileSet",
+            "mvc": "1.0",
+            "closed_edge": false,
+            "name": "at_water",
+            "tiles": [
+                391,
+                328,
+                327,
+                359,
+                296,
+                390,
+                294,
+                358,
+                295,
+                326,
+                392,
+                360,
+                423,
+                422,
+                424,
+                0
+            ]
+        }
     ],
     "macroPageTiles": {
         "SerialiseData": null,
