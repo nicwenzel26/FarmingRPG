@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "71d2b754-c11f-4f08-b838-2b762da4f1b3",
+            "Value": {
+                "id": "918e2f60-4203-496f-b19f-d0b1ad5def87",
+                "resourcePath": "tilesets\\ts_terrain\\ts_terrain.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "82f39b38-e3ed-4299-b0e5-2b8f0fa140c8",
             "Value": {
                 "id": "88043e20-bc84-409d-81f4-b0a0140ea272",
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "aa9b1ac5-efba-4dfb-ba12-4b0298fe26b5",
+            "Value": {
+                "id": "4a4946f7-e436-40b8-8a21-63066f6bb68f",
+                "resourcePath": "tilesets\\ts_cottage\\ts_cottage.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "ab5137c8-1ef5-4650-a3ee-6cb2489bf7eb",
             "Value": {
                 "id": "5d3f6f7d-944d-4680-81c6-a9670aff908b",
@@ -212,6 +228,14 @@
                 "id": "eaf1479c-ab9e-4247-b1ab-26adf724e84b",
                 "resourcePath": "objects\\obj_collide\\obj_collide.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bbe51d0e-5e4e-4d7e-afa4-2013e756bd44",
+            "Value": {
+                "id": "a0603d8c-6a5f-4c32-8dda-aeb9aa6e1a29",
+                "resourcePath": "sprites\\spr_terrain\\spr_terrain.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -260,6 +284,14 @@
                 "id": "57c3b234-0be8-49cc-83fb-54ef5d011c4a",
                 "resourcePath": "views\\d94fb39c-e7b9-49d0-b120-06a9147f8a28.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d97ee268-afe6-4cef-ab7c-f556676507de",
+            "Value": {
+                "id": "8db3a5f1-6a9e-4296-aaa4-0744debbf1a0",
+                "resourcePath": "sprites\\spr_cottage\\spr_cottage.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -363,6 +395,14 @@
             "Value": {
                 "id": "fde2ee3d-7c84-4eb1-8196-ed0c1feb6669",
                 "resourcePath": "views\\ff4b575c-a4c2-4b8e-bbf1-7eaac490f040.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ff80e9a1-9116-40e2-a729-a1e8b6c747bf",
+            "Value": {
+                "id": "68bd2449-6a1c-4652-9ee2-b8deb5b3e9b1",
+                "resourcePath": "views\\ff80e9a1-9116-40e2-a729-a1e8b6c747bf.yy",
                 "resourceType": "GMFolder"
             }
         },
