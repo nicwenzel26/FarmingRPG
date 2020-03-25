@@ -28,17 +28,17 @@ if(move_y == 0) { move_x = (input_right - input_left) * spd }
 
 
 //SPRITE MANAGMENT ****************************************************
-if(input_down) {
+if(move_y > 0) {
 	sprite_index = spr_player_down
 }
-else if(input_left) {
+else if(move_x < 0) {
 	sprite_index = spr_player_left
 }
 
-else if(input_right) {
+else if(move_x > 0) {
 	sprite_index = spr_player_right
 }
-else if(input_up) {
+else if(move_y < 0) {
 	sprite_index = spr_player_up
 }
 
